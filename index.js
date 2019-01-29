@@ -1,4 +1,4 @@
-var net = require('net');
+var net = require('net-browserify');
 var util = require('util');
 var assert = require('assert');
 var Stream = require('stream');
